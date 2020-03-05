@@ -1,6 +1,6 @@
 {
-  "mongoURI": "process.env.mongoURI",
-  "jwtSecret": "process.env.jwtSecret",
-  "githubClientId": "process.env.githubClientId",
-  "githubSecret": "process.env.githubSecret"
+  "mongoURI": "mongodb+srv://devConn:kiJhGcKwhqY8xeRB@devconnectorsocial-zxhcz.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secrettoken",
+  "githubClientId": "afc7db33b6821b034cfd",
+  "githubSecret": "5795b815e654d74ca5dbebb6323b481321f9435d"
 }
